@@ -18,6 +18,7 @@
 		20B2AB0F206B43B300581260 /* XYTimeAxisView.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B2AB0E206B43B300581260 /* XYTimeAxisView.m */; };
 		20B2AB12206CB13400581260 /* XYFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B2AB11206CB13400581260 /* XYFirstViewController.m */; };
 		20B2AB15206CB5D900581260 /* UIView+WingFrameExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B2AB14206CB5D900581260 /* UIView+WingFrameExtension.m */; };
+		20B2AB18206CCC6100581260 /* XYTimeAxisCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 20B2AB17206CCC6100581260 /* XYTimeAxisCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,8 @@
 		20B2AB11206CB13400581260 /* XYFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYFirstViewController.m; sourceTree = "<group>"; };
 		20B2AB13206CB5D900581260 /* UIView+WingFrameExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+WingFrameExtension.h"; sourceTree = "<group>"; };
 		20B2AB14206CB5D900581260 /* UIView+WingFrameExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+WingFrameExtension.m"; sourceTree = "<group>"; };
+		20B2AB16206CCC6100581260 /* XYTimeAxisCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XYTimeAxisCell.h; sourceTree = "<group>"; };
+		20B2AB17206CCC6100581260 /* XYTimeAxisCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XYTimeAxisCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				20B2AB0B206B433000581260 /* XYCell.m */,
 				20B2AB0D206B43B300581260 /* XYTimeAxisView.h */,
 				20B2AB0E206B43B300581260 /* XYTimeAxisView.m */,
+				20B2AB16206CCC6100581260 /* XYTimeAxisCell.h */,
+				20B2AB17206CCC6100581260 /* XYTimeAxisCell.m */,
 				20B2AAF4206B30DA00581260 /* Main.storyboard */,
 				20B2AAF7206B30DA00581260 /* Assets.xcassets */,
 				20B2AAF9206B30DA00581260 /* LaunchScreen.storyboard */,
@@ -175,6 +180,7 @@
 				20B2AAF0206B30DA00581260 /* AppDelegate.m in Sources */,
 				20B2AB0F206B43B300581260 /* XYTimeAxisView.m in Sources */,
 				20B2AB15206CB5D900581260 /* UIView+WingFrameExtension.m in Sources */,
+				20B2AB18206CCC6100581260 /* XYTimeAxisCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
